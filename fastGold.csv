@@ -1,0 +1,9 @@
+Engine,Turbo,Weight,FuelEco,Fast
+Large,No,Average,Bad,Yes
+Small,No,Light,Average,Yes
+Small,Yes,Average,Bad,No
+Large,No,Heavy,Bad,No
+Large,No,Average,Bad,Yes
+Large,No,Light,Bad,Yes
+Large,Yes,Heavy,Bad,Yes
+Small,No,Average,Average,No
